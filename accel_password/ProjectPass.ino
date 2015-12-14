@@ -1,3 +1,8 @@
+/**
+ * Author: Locab (Ilya Solomatin)
+ * Locab.rus@gmail.com
+ * dec 2015
+ **/
 template<class T> inline Print &operator <<(Print &obj, T arg) { obj.print(arg); return obj; }
 #include <troyka-imu.h>
 #include <Wire.h>
