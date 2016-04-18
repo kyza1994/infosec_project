@@ -1,3 +1,5 @@
+# Author: Egor Kuznetsov
+
 import sys
 from numpy.linalg import norm
 import numpy as np
